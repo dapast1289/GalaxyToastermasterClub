@@ -4,11 +4,20 @@ paginate: 5
 
 # Build settings
 markdown:            kramdown
-baseurl: /GalaxyToastmaster
 highlighter:         rouge
 permalink:           none
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed]
+baseurl: /GalaxyToastmaster
 
+#asset 
+assets:
+    img: /assets/img
+    imgbasic: /assets/img/basic
+
+#for develop
+github:
+    url: /GalaxyToastmaster
+    
 # feed settings
 title:		     "{{ site.data.settings.title }} | {{ site.data.settings.tagline }}"
 
