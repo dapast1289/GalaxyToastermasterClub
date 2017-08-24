@@ -1,9 +1,10 @@
 # Site Settings
 
-paginate:            5
+paginate: 5
 
 # Build settings
 markdown:            kramdown
+baseurl: /GalaxyToastmaster
 highlighter:         rouge
 permalink:           none
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed]
@@ -12,5 +13,5 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed]
 title:		     "{{ site.data.settings.title }} | {{ site.data.settings.tagline }}"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
-#feed:
-#   path:	     rss-feed.xml
+feed:
+   path:	     rss-feed.xml
