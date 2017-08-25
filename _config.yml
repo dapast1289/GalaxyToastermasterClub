@@ -15,8 +15,8 @@ assets:
     imgbasic: /assets/img/basic
 
 #for develop
-#github:
-#    url: /GalaxyToastmaster
+github:
+    url: /GalaxyToastmaster
     
 # feed settings
 title:		     "{{ site.data.settings.title }} | {{ site.data.settings.tagline }}"
