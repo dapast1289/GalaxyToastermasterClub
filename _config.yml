@@ -3,6 +3,7 @@
 paginate: 5
 
 # Build settings
+baseurl: /GalaxyToastmaster
 markdown:            kramdown
 highlighter:         rouge
 permalink:           none
@@ -12,11 +13,11 @@ baseurl: /GalaxyToastmaster
 #asset 
 assets:
     img: /assets/img
-    imgbasic: /assets/img/basic
+    imgbasic: /assets/img/website
 
 #for develop
-#github:
-#    url: /GalaxyToastmaster
+# github:
+#     url: /GalaxyToastmaster
     
 # feed settings
 title:		     "{{ site.data.settings.title }} | {{ site.data.settings.tagline }}"
