@@ -8,19 +8,13 @@ markdown:            kramdown
 highlighter:         rouge
 permalink:           none
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed]
-baseurl: /GalaxyToastmaster
 
 #asset 
-assets:
-    img: /assets/img
-    imgbasic: /assets/img/website
-
-#for develop
-# github:
-#     url: /GalaxyToastmaster
-    
+img: /assets/img/
+albums: /assets/albums/
+        
 # feed settings
-title:		     "{{ site.data.settings.title }} | {{ site.data.settings.tagline }}"
+title: "{{ site.data.settings.title }} | {{ site.data.settings.tagline }}"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 feed:

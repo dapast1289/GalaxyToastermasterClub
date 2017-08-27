@@ -5,10 +5,11 @@ author: "Leo Chen"
 categories: journal
 tags: [documentation,sample]
 image:
-  feature: mountains.jpg
-  teaser: mountains-teaser.jpg
-  credit: Death to Stock Photo
-  creditlink: ""
+  album: 2017-08-16-Inhouse-contest
+  feature: inhouse contest_170827_0034.jpg
+  teaser: inhouse contest_170827_0034.jpg
+  credit:
+  creditlink:
 ---
 
 Tonight We have six contestants to bring us interesting Speeches. And congratulations to Tiffany Wei and Paul Hsu for getting the first and second respectively.
