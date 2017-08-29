@@ -3,7 +3,7 @@ layout: post
 title: "2017 Humorours Speech and Evaluation In-Hourse Contest"
 author: "Leo Chen"
 categories: journal
-tags: [documentation,sample]
+tags: [meeting, sample]
 image:
   album: 2017-08-16-Inhouse-contest
   feature: inhouse contest_170827_0034.jpg
@@ -12,4 +12,8 @@ image:
   creditlink:
 ---
 
-Tonight We have six contestants to bring us interesting Speeches. And congratulations to Tiffany Wei and Paul Hsu for getting the first and second respectively.
+Tonight We have six contestants to bring us interesting Speeches.
+
+I really like Paul and Tiffany's speech.
+
+And congratulations to Tiffany Wei and Paul Hsu for getting the first and second respectively.
