@@ -2,7 +2,7 @@ title: 銀河英語國際演講會
 tagline: Galaxy Toastmaster Club
 author:
   name: 'Leo Chen'
-  twitter:  paululele
+  twitter:
 
 # Change to true for Disqus comments
 disqus:
@@ -12,9 +12,9 @@ disqus:
 google-ID: 'UA-80213386-1'
 
 menu:
-- {name: 'About', url: 'about.html'}
+- {name: 'About Galaxy', url: 'join_galaxy.html'}
 - {name: 'Writing', url: 'writing.html'}
-- {name: 'Contact', url: 'contact.html'}
+- {name: 'Upcoming Events', url: 'upcoming_events.html'}
 
 social:
 - {icon: 'github', link: 'https://www.github.com/lenpaul'}
