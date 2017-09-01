@@ -6,8 +6,8 @@ categories: journal
 tags: [meeting, sample]
 image:
   album: 2017-08-16-Inhouse-contest
-  feature: inhouse contest_170827_0034.jpg
-  teaser: inhouse contest_170827_0034.jpg
+  feature: inhouse contest_170901_0034.jpg
+  teaser: inhouse contest_170901_0034.jpg
   credit:
   creditlink:
 ---
