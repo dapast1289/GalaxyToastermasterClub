@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Essential Oils"
+title: "2017/08/23 Essential Oils"
 author: "Leo Chen"
 categories: [activities]
-tags: [EGG, sample]
+tags: [EGG]
 image:
   album:
   feature:

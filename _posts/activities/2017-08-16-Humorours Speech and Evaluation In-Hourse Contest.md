@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Humorours Speech and Evaluation In-Hourse Contest"
+title: "2017/08/16 Humorours Speech and Evaluation In-Hourse Contest"
 author: "Leo Chen"
 categories: [activities]
-tags: [meeting, sample]
+tags: [meeting]
 image:
   album: 2017-08-16-Inhouse-contest
   feature: inhouse contest_170901_0034.jpg
