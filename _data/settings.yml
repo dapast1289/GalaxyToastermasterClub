@@ -14,7 +14,7 @@ google-ID: 'UA-80213386-1'
 menu:
 - {name: 'About', url: 'about.html'}
 - {name: 'Activities', url: 'activities.html'}
-- {name: 'Upcoming', url: 'upcoming.html'}
+# - {name: 'Upcoming', url: 'upcoming.html'}
 
 social:
 - {icon: 'github', link: 'https://www.github.com/lenpaul'}
