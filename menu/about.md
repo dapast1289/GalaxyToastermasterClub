@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Join Galaxy
+title: About Galaxy
 ---
 
 

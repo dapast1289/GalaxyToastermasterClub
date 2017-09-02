@@ -12,9 +12,9 @@ disqus:
 google-ID: 'UA-80213386-1'
 
 menu:
-- {name: 'About Galaxy', url: 'join_galaxy.html'}
-- {name: 'Writing', url: 'writing.html'}
-- {name: 'Upcoming Events', url: 'upcoming_events.html'}
+- {name: 'About', url: 'about.html'}
+- {name: 'Activities', url: 'activities.html'}
+- {name: 'Upcoming', url: 'upcoming.html'}
 
 social:
 - {icon: 'github', link: 'https://www.github.com/lenpaul'}
